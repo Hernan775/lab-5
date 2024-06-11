@@ -1,1 +1,2 @@
-autor Jhonny Alvaro Ticona Mendoza
+base de datos con bd_agenda
+
